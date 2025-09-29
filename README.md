@@ -1,2 +1,2 @@
-# python-firts-class
+# python-first-class
 Primeiras aulas de Python
